@@ -128,3 +128,7 @@ a:hover {
     border: var(--border);
     border-radius: var(--border-radius);
 }
+
+.bom {
+    color: aqua;
+}
